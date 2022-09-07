@@ -1,12 +1,3 @@
-// X Make an interface that contains the numbers and operators
-// X Make a clear button a back button and an equal button
-// X Make a display that shows the math
-// X Make functions to do the math
-// X Make a function that calls on the math functions when appropriate 
-// X Make a way to store the values that are being clicked
-// EXTRA CREDIT
-// X Make a way to add only one decimal point per number
-// X Round the decimals a few places
 
 const calculator = document.getElementById('calculator');
 const output = document.getElementById('output');
